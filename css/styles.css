@@ -107,7 +107,7 @@ h1,h2,h3{font-family:"Fraunces",Georgia,serif;font-weight:500;letter-spacing:-.0
 .how{background:var(--dark);color:#fff}
 .how .kicker{color:var(--brand-bright)}
 .how h2{color:#fff}
-.steps{display:grid;grid-template-columns:1fr;gap:40px;margin-top:44px}
+.steps{display:grid;grid-template-columns:1fr;gap:40px;margin-top:44px;text-align:center}
 .step .num{font-family:"Fraunces";font-size:2.2rem;color:var(--brand-bright);line-height:1;margin-bottom:14px}
 .step .art{height:110px;margin-bottom:18px;display:flex;align-items:center;justify-content:center}
 .step .art svg{height:100%;width:auto}
